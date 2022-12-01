@@ -26,10 +26,10 @@ OR, deploy the contract to the BSC mainnet
 
 truffle migrate --reset --network bsc\_mainnet
 
-4\. From the output of the above command, find the address of the `RazeETH` contract, suppose it is:
+4\. From the output of the above command, find the address of the `RubyETH` contract, suppose it is:
 
 `0x05149A02DC230588964Dd6D6F196eF38d523c0Fa`
 
-Update the Javascript code with the above address in `src/razeClient.js`
+Update the Javascript code with the above address in `src/rubyClient.js`
 
-razeApp.contracts.razeETHContract = new razeApp.web3.eth.Contract(razeETHabi, YOUR\_RAZEETH\_CONTRACT\_ADDRESS\_HERE);
+rubyApp.contracts.rubyETHContract = new rubyApp.web3.eth.Contract(rubyETHabi, YOUR\_RAZEETH\_CONTRACT\_ADDRESS\_HERE);

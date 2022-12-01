@@ -20,18 +20,18 @@
 
 2021 Q4 - Integrating More Customized Functions
 
-#### Milestone 1: Raze Substrate Modules and Cross-chain Bridge Implementation <a href="#milestone-1-raze-substrate-modules-and-cross-chain-bridge-implementation" id="milestone-1-raze-substrate-modules-and-cross-chain-bridge-implementation"></a>
+#### Milestone 1: Ruby Substrate Modules and Cross-chain Bridge Implementation <a href="#milestone-1-ruby-substrate-modules-and-cross-chain-bridge-implementation" id="milestone-1-ruby-substrate-modules-and-cross-chain-bridge-implementation"></a>
 
-The main deliverable of this milestone is Raze substrate pallet that supports: mint, transfer, redeem, lock and unlock functionalities. The substrate modules will support both the mainstream tokens issued in the Polkadot ecosystem such as DOT and Kusama and the cross-chain payment of ERC-20 tokens.
+The main deliverable of this milestone is Ruby substrate pallet that supports: mint, transfer, redeem, lock and unlock functionalities. The substrate modules will support both the mainstream tokens issued in the Polkadot ecosystem such as DOT and Kusama and the cross-chain payment of ERC-20 tokens.
 
 |                                                        |                                                                                                                                                                                                                                        |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Raze Substrate module for private payment**          | We will implement the zero-knowledge proof schemes and create a Substrate module that incorporates the verification logic for the aforementioned modules. It will support the verification of mint, transfer, redeem, lock and unlock. |
+| **Ruby Substrate module for private payment**          | We will implement the zero-knowledge proof schemes and create a Substrate module that incorporates the verification logic for the aforementioned modules. It will support the verification of mint, transfer, redeem, lock and unlock. |
 | **A cross-chain bridge between Ethereum and Polkadot** | The bridge will map ERC-20 tokens to the Polkadot ecosystem and facilitate their private payment in the Polkadot ecosystem.                                                                                                            |
 |                                                        | Benchmark on the throughput and gas cost of the proposed modules                                                                                                                                                                       |
 |                                                        | We will provide a dockerfile to demonstrate the usage of our modules                                                                                                                                                                   |
 
-#### **Milestone 2: Raze Client Implementation and Integration** <a href="#milestone-2-raze-client-implementation-and-integration" id="milestone-2-raze-client-implementation-and-integration"></a>
+#### **Milestone 2: Ruby Client Implementation and Integration** <a href="#milestone-2-ruby-client-implementation-and-integration" id="milestone-2-ruby-client-implementation-and-integration"></a>
 
 The main deliverable of this milestone is the client that can generate the transactions that can trigger the aforementioned contracts.
 

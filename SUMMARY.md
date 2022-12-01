@@ -14,15 +14,15 @@
 
 ## DEVELOPER DOCS
 
-* [Raze Frontend Architecture](developer-docs/raze-frontend-architecture.md)
+* [Ruby Frontend Architecture](developer-docs/ruby-frontend-architecture.md)
 * [Backend Functionalities](developer-docs/backend-functionalities.md)
 * [Truffle Deployment Guide](developer-docs/truffle-deployment-guide.md)
 
 ## TUTORIAL
 
 * [Connect Your Wallet](tutorial/connect-your-wallet.md)
-* [Log Into Your Raze Account](tutorial/log-into-your-raze-account.md)
-* [Register Your Raze Account](tutorial/register-your-raze-account.md)
+* [Log Into Your Ruby Account](tutorial/log-into-your-ruby-account.md)
+* [Register Your Ruby Account](tutorial/register-your-ruby-account.md)
 * [Mint Privacy Tokens](tutorial/mint-privacy-tokens.md)
 * [Transfer Privacy Tokens](tutorial/transfer-privacy-tokens.md)
 * [Redeem Privacy Tokens](tutorial/redeem-privacy-tokens.md)

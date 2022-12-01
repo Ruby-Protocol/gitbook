@@ -4,4 +4,4 @@ Next
 
 \- Developer Docs
 
-Raze Frontend Architecture
+Ruby Frontend Architecture
