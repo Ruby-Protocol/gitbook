@@ -1,5 +1,7 @@
 # Truffle Deployment Guide
 
+## Environment Setup
+
 0\. Check whether you Mac has Homebrew installed:
 
 If the command fails, then install Homebrew:

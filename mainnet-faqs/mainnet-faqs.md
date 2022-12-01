@@ -1,32 +1,24 @@
-# Mainnet FAQs
+---
+description: >-
+  This page addresses the questions from the community regarding our Mainnet. If
+  you do not see your question answered here, please let our CMs know in our
+  Official Telegram and we will get it added!
+---
 
-This page addresses the questions from the community regarding our Mainnet. If you do not see your question answered here, please let our CMs know in our Official Telegram and we will get it added!
+# Mainnet FAQs
 
 ### Error when using Transfer function? <a href="#error-when-using-transfer-function" id="error-when-using-transfer-function"></a>
 
-1.  1\.
-
-    Confirm you have sufficient Ruby BNB balance
-2.  2\.
-
-    Make sure the transfer amount is less than or equal to the amount of Ruby BNB in your account, NOT the BNB balance in your MetaMask wallet
-3.  3\.
-
-    The recipient address must be a Ruby Public Address, you can NOT transfer tokens to a MetaMask wallet
-
-    * Note: You cannot transfer tokens to your own Ruby Public Address, doing so will cause an error
-    * See photo below for details
+1. Confirm you have sufficient Raze BNB balance
+2. Make sure the transfer amount is less than or equal to the amount of Raze BNB in your account, NOT the BNB balance in your MetaMask wallet
+3. The recipient address must be a Raze Public Address, you can NOT transfer tokens to a MetaMask wallet
+   * Note: You cannot transfer tokens to your own Raze Public Address, doing so will cause an error
+   * See photo below for details&#x20;
 
 ### **Why can I not login to the Mainnet?** <a href="#why-can-i-not-login-to-the-mainnet" id="why-can-i-not-login-to-the-mainnet"></a>
 
-1.  1\.
-
-    Please make sure you are inputting the correct Ruby Private Key when logging in
-2.  2\.
-
-    Make sure your MetaMask wallet is set to the BSC-Mainnet Network
-
-    * If you do not know how to set your wallet to the BSC-Mainnet Network, please use the following [link](<../.gitbook/assets/testnet configuration>)​
+1. Please make sure you are inputting the correct Raze Private Key when logging in
+2. Make sure your MetaMask wallet is set to the BSC-Mainnet Network
 
 ### How do I use the Transfer function if I do not know another Ruby Public Address? <a href="#how-do-i-use-the-transfer-function-if-i-do-not-know-another-ruby-public-address" id="how-do-i-use-the-transfer-function-if-i-do-not-know-another-ruby-public-address"></a>
 

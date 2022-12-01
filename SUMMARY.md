@@ -21,8 +21,8 @@
 ## TUTORIAL
 
 * [Connect Your Wallet](tutorial/connect-your-wallet.md)
-* [Log Into Your Ruby Account](tutorial/log-into-your-ruby-account.md)
 * [Register Your Ruby Account](tutorial/register-your-ruby-account.md)
+* [Log Into Your Ruby Account](tutorial/log-into-your-ruby-account.md)
 * [Mint Privacy Tokens](tutorial/mint-privacy-tokens.md)
 * [Transfer Privacy Tokens](tutorial/transfer-privacy-tokens.md)
 * [Redeem Privacy Tokens](tutorial/redeem-privacy-tokens.md)
