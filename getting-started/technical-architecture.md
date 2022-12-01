@@ -1,6 +1,6 @@
 # Technical Architecture
 
-Raze Network will apply the Zether framework to build the second-layer decentralized anonymous payment module. It will be then imported as substrate-based smart contracts. Similar to the Zether framework, it will have three technical modules: mint, transfer and redeem. The mint module will convert a base token into its anonymized version, while the redeem module will convert the anonymized token back to its native form. The transfer module is the one that enables the anonymous transfer of the anonymized token. This process will conceal the transaction amount and guarantee the anonymity for both the sender and receiver.
+Ruby Protocal will apply the Zether framework to build the second-layer decentralized anonymous payment module. It will be then imported as substrate-based smart contracts. Similar to the Zether framework, it will have three technical modules: mint, transfer and redeem. The mint module will convert a base token into its anonymized version, while the redeem module will convert the anonymized token back to its native form. The transfer module is the one that enables the anonymous transfer of the anonymized token. This process will conceal the transaction amount and guarantee the anonymity for both the sender and receiver.
 
 ### Zero-knowledge Implementation <a href="#zero-knowledge-implementation" id="zero-knowledge-implementation"></a>
 
