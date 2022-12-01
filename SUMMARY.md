@@ -6,11 +6,7 @@
 
 * [Project Overview](getting-started/project-overview.md)
 * [Technical Architecture](getting-started/technical-architecture.md)
-* [Substrate/Polkadot Integration](getting-started/substrate-polkadot-integration.md)
 * [Ecosystem Fits](getting-started/ecosystem-fits.md)
-* [Token Economics](getting-started/token-economics.md)
-* [Roadmap](getting-started/roadmap.md)
-* [Contact Us](getting-started/contact-us.md)
 
 ## DEVELOPER DOCS
 
