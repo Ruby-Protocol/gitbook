@@ -23,6 +23,6 @@
 * [Transfer Privacy Tokens](tutorial/transfer-privacy-tokens.md)
 * [Redeem Privacy Tokens](tutorial/redeem-privacy-tokens.md)
 
-## MAINNET FAQS
+## FAQS
 
-* [Mainnet FAQs](mainnet-faqs/mainnet-faqs.md)
+* [FAQs](faqs/faqs.md)
