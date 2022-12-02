@@ -6,6 +6,6 @@ Transfer Privacy Tokens
 * Input your private key and log into your Ruby Account
 * Enter the amount of privacy tokens and the receiver's **Public** **Ruby Account Address** to transfer the tokens
 
-![](<../.gitbook/assets/image (3).png>)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * Click "Confirm Transfer" to complete the privacy token transfer
