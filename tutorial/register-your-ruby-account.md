@@ -22,4 +22,4 @@ If you select "Pick Your Own Key", please make sure your private key is strong a
 
 **If you lose your private key, there will be no way to access your Ruby Account.**
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
