@@ -12,4 +12,4 @@ RUBYRUBY \* Click "Confirm Mint" to create your privacy tokens (BNB -> pBNB) \* 
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-* Privacy tokens, which are anonymized versions of their native tokens, are usually presented as **“r” + the name of the native token**. For example, privatized $ETH will be listed as rETH on Ruby network, $USDT will be listed as pUSDT, and $RUBY will be listed as pRUBY.
+* Privacy tokens, which are anonymized versions of their native tokens, are usually presented as **“p” + the name of the native token**. For example, privatized $ETH will be listed as pETH on Ruby network, $USDT will be listed as pUSDT, and $RUBY will be listed as pRUBY.
