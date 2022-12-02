@@ -34,4 +34,4 @@ truffle migrate --reset --network bsc\_mainnet
 
 Update the Javascript code with the above address in `src/rubyClient.js`
 
-rubyApp.contracts.rubyETHContract = new rubyApp.web3.eth.Contract(rubyETHabi, YOUR\_RAZEETH\_CONTRACT\_ADDRESS\_HERE);
+rubyApp.contracts.rubyETHContract = new rubyApp.web3.eth.Contract(rubyETHabi, YOUR\_RUBYETH\_CONTRACT\_ADDRESS\_HERE);
