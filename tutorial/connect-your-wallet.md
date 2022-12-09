@@ -1,5 +1,5 @@
 # Connect Your Wallet
 
-When you go to the Ruby Mainnet page, your MetaMask browser will automatically pop-up and allow you to select an address from your wallet to connect with.&#x20;
+To experience Ruby Protocol's PoC, you must go to our product page and connect your Web3 wallet. When you go to us, your MetaMask will pop up automatically. Please select an address you wish to interact with.
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

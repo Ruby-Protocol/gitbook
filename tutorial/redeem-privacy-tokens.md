@@ -2,9 +2,10 @@
 
 #### **Redeem** Privacy Tokens <a href="#redeem-privacy-tokens" id="redeem-privacy-tokens"></a>
 
-* From the home screen, select the token you wish to redeem privately
+* Select the token you wish to redeem privately
 * Input your private key and log into your Ruby Account
-* Enter the amount of privacy tokens in Units you wish to redeem
+* Enter the amount you want to redeem
+* Privacy tokens in your Ruby Account = Full amount - Redeemed - gas fees.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

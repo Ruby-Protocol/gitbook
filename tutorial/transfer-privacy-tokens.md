@@ -1,11 +1,10 @@
 # Transfer Privacy Tokens
 
-Transfer Privacy Tokens
+#### Transfer Privacy Tokens <a href="#transfer-privacy-tokens" id="transfer-privacy-tokens"></a>
 
-* From the home screen, select the token you wish to transfer privately
+* Select the token you wish to transfer privately
 * Input your private key and log into your Ruby Account
-* Enter the amount of privacy tokens and the receiver's **Public** **Ruby Account Address** to transfer the tokens
-
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
+* Enter the amount and the receiver's Public Ruby Address to transfer the tokens
 * Click "Confirm Transfer" to complete the privacy token transfer
+
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
