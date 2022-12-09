@@ -4,11 +4,11 @@
 
 ## GETTING STARTED
 
-* [Project Overview](getting-started/project-overview/README.md)
+* [Project Overview](getting-started/project-overview.md)
   * [Existing Problems](getting-started/project-overview/existing-problems.md)
   * [Positioning Statement](getting-started/project-overview/positioning-statement.md)
   * [Ecosystem Fits](getting-started/project-overview/ecosystem-fits.md)
-* [Technical Architecture](getting-started/technical-architecture/README.md)
+* [Technical Architecture](getting-started/technical-architecture.md)
   * [Functional Encryption](getting-started/technical-architecture/functional-encryption.md)
   * [Competitive Edges](getting-started/technical-architecture/competitive-edges.md)
   * [Application Cases](getting-started/technical-architecture/application-cases.md)
