@@ -1,10 +1,10 @@
 # Privacy Token Minting
 
-### Mint Privacy Tokens (e.g. BNB -> pBNB)
+### Mint Privacy Tokens (e.g. ETH -> pETH)
 
 * Select the token you wish to transfer privately.
 * Input your private key to log into your Ruby account.
-* Enter the amount to mint. Please note that the unit ratio for each token is different. (e.g., 1 BNB = 100 Units of pBNB)
+* Enter the amount to mint. Please note that the unit ratio for each token is different. (e.g., 1 ETH = 100 Units of pETH)
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -10,4 +10,4 @@ Click on "My Ruby Account Address" in the Transfer module to copy & paste your a
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-Please be noted that this address is only to receive Privacy Token on Ruby’s PoC. PLEASE DO NOT use your normal ERC-20 or BEP-20 address as a receiving address.
+Please be noted that this address is only to receive Privacy Token on Ruby’s PoC. PLEASE DO NOT use your usual ERC-20 or BEP-20 address as a receiving address.
