@@ -20,7 +20,7 @@ description: >-
 
 ### How do I use the Transfer function if I do not know another Ruby Public Address? <a href="#how-do-i-use-the-transfer-function-if-i-do-not-know-another-ruby-public-address" id="how-do-i-use-the-transfer-function-if-i-do-not-know-another-ruby-public-address"></a>
 
-* Since you cannot transfer Ruby BNB/ETH to your own public address, the next reasonable thing to do is set up another Ruby Account to test the application.
+* Since you cannot transfer Ruby ETH to your own public address, the next reasonable thing to do is set up another Ruby Account to test the application.
 * The additional account will provide you with a second Ruby Public Address that you can transfer the Ruby ETH to.
 * You can use the same MetaMask wallet to login to both of these accounts.
 
