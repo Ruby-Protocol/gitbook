@@ -1,4 +1,4 @@
-# Ruby Protocol PoC
+# Goal: Highlight Layer2, access control, and privacy
 
 Ruby Protocol is a private data management framework for Web 3.0 that proposes and implements a privacy layer interacting with the multi-chain ecosystem. It is a fine-grained private data access-control gateway across different entities and organizations in the decentralized and traditional financial world.
 
