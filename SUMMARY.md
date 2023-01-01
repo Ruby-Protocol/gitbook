@@ -14,6 +14,7 @@
   * [Application Cases](getting-started/technical-architecture/application-cases.md)
 * [Tokenomics](getting-started/tokenomics.md)
 * [Roadmap](getting-started/roadmap.md)
+* [Team & Backers](getting-started/team-and-backers.md)
 
 ***
 
