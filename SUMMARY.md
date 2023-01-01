@@ -12,6 +12,10 @@
   * [Functional Encryption](getting-started/technical-architecture/functional-encryption.md)
   * [Competitive Edges](getting-started/technical-architecture/competitive-edges.md)
   * [Application Cases](getting-started/technical-architecture/application-cases.md)
+* [Tokenomics](getting-started/tokenomics.md)
+* [Roadmap](getting-started/roadmap.md)
+* [Team & Backers](getting-started/team-and-backers.md)
+* [Reference](getting-started/reference.md)
 
 ***
 
@@ -35,3 +39,18 @@
 ## FAQS
 
 * [FAQs](faqs/faqs.md)
+
+## resources
+
+* [Website](https://www.ruby.xyz/)
+* [Project Wiki](https://docs.ruby.xyz/)
+* [One Pager](https://docsend.com/view/tvdeike4pm4i4tmw)
+* [Pitchdeck](https://docsend.com/view/hskwwswemtmg5ejq)
+* [Whitepaper](https://docsend.com/view/bby2zmdj2b86yue9)
+* [Github](https://github.com/Ruby-Protocol)
+* [Twitter](https://twitter.com/RubyProtocol)
+* [Discord](https://discord.gg/RubyProtocol)
+* [Telegram](https://t.me/RubyProtocol)
+* [Medium](https://medium.com/@rubyprotocol)
+* [Email](mailto:info@ruby.xyz)
+* [LinkedIn](https://www.linkedin.com/company/rubyprotocol/)
