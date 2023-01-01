@@ -12,6 +12,7 @@
   * [Functional Encryption](getting-started/technical-architecture/functional-encryption.md)
   * [Competitive Edges](getting-started/technical-architecture/competitive-edges.md)
   * [Application Cases](getting-started/technical-architecture/application-cases.md)
+* [Tokenomics](getting-started/tokenomics.md)
 
 ***
 
