@@ -13,6 +13,7 @@
   * [Competitive Edges](getting-started/technical-architecture/competitive-edges.md)
   * [Application Cases](getting-started/technical-architecture/application-cases.md)
 * [Tokenomics](getting-started/tokenomics.md)
+* [Roadmap](getting-started/roadmap.md)
 
 ***
 
