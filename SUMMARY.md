@@ -30,6 +30,7 @@
 ## TUTORIAL
 
 * [Connect Your Wallet](tutorial/connect-your-wallet.md)
+* [Test Tokens & Faucets](tutorial/test-tokens-and-faucets.md)
 * [Ruby Account Registration](tutorial/register-your-ruby-account.md)
 * [Ruby Account Login](tutorial/log-into-your-ruby-account.md)
 * [Privacy Token Minting](tutorial/mint-privacy-tokens.md)

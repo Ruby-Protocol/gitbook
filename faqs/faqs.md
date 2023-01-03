@@ -1,6 +1,8 @@
 ---
 description: >-
-  This page aims to address the questions posted by our community regarding this PoC. If you do not see your question answered here, please let our CMs in our Official Telegram and we will get it added here!
+  This page aims to address the questions posted by our community regarding this
+  PoC. If you do not see your question answered here, please let our CMs in our
+  Official Telegram and we will get it added
 ---
 
 # FAQs

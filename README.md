@@ -4,7 +4,7 @@ description: Web3 Privacy Made Possible
 
 # Welcome
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Ruby protocol is a private data management framework for Web 3.0.**&#x20;
 

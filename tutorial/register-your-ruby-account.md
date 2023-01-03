@@ -4,7 +4,7 @@
 
 To register a Ruby Account, simply click "Register".
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 There will be two ways to do so. You can choose "Private Key Generator" or "Pick Your Own Key". As the name indicates, the key generator will automatically generate a secret key for you.
 
