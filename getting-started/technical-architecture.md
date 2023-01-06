@@ -4,7 +4,7 @@ description: A Private Data Management Layer for Web 3.0
 
 # Technical Architecture
 
-### Layers Structure
+## Layers Structure
 
 **Policy Management Layer**
 
@@ -22,7 +22,7 @@ The credential issuance layer is the anchor of the security of Ruby protocol. It
 
 The application layer will interact with the blockchain apps, be it DeFi apps or NFT projects. It will be responsible for providing project requirements of blockchain apps and interacting with the entities responsible for the policy management to specify the privacy requirement of the blockchain apps. It will provide suitable APIs for these projects so that Ruby’s privacy protection feature can be used in a plug-in-and-play manner.
 
-#### **Platform Pillars** <a href="#platform-pillars" id="platform-pillars"></a>
+## **Platform Pillars** <a href="#platform-pillars" id="platform-pillars"></a>
 
 * **Data Management Framework**
 * **Access Control Mechanism**
