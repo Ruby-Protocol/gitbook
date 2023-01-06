@@ -18,4 +18,4 @@ If you select "Pick Your Own Key", please bear it in mind that it is your sole r
 
 **If you lose your private key, there will be no way to access your Ruby Account.**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>

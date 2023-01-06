@@ -13,7 +13,7 @@ To get the test token for Ruby Connect, it is recommended that you should bridge
 1.  Switch network in metamask.\
 
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 2.  Make sure the source network is switched to Goerli.\
 
 
