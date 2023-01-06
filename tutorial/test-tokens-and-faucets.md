@@ -10,11 +10,11 @@ If you do not have any GoerliETH yet, we recommend getting it from Alchemy's fau
 
 To get the test token for Ruby Connect, it is recommended that you should bridge tokens from Goerli to Optimism Goerli via [https://app.optimism.io/bridge](https://app.optimism.io/bridge).&#x20;
 
-1.  Switch network in metamask.\
+1.  Switch network in metamask.
 
 
     <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-2.  Make sure the source network is switched to Goerli.\
+2.  Make sure the source network is switched to Goerli.
 
 
     <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
