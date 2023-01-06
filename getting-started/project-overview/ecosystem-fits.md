@@ -1,6 +1,6 @@
 # Ecosystem Fits
 
-The existing internet economic model relies almost exclusively on the monetization of personal data. The recent scandals on the internet companies mishandling individual data such as Facebook’s Cambridge Analytical scandal have prompted many individuals to awaken to the fact that in the current internet economy they are the product and they need to regain control over their data. In fact, I would argue that the recently published privacy regulation such as GDPR or CCPA is the response to this urge.
+The existing internet economic model relies almost exclusively on monetizing personal data. However, the recent scandals of internet companies mishandling individual data, such as Facebook’s Cambridge Analytical scandal, have prompted many individuals to awaken to the fact that in the current internet economy they are the product, and they need to regain control over their data. It could be argued that the recently published privacy regulation, such as GDPR or CCPA, responds to this urge.
 
 Blockchain could act as an indispensable role to remove the middleman of the internet economy. A second-layer fine-grained personal data monetization framework would potentially move blockchain beyond a decentralized financial platform and enable blockchain to play a central role in the next-generation data economy. It would also enable blockchain to gain a moral high ground by freeing billions of web users from the control of monopoly middleman companies.
 

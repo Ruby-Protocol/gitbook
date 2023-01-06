@@ -14,7 +14,7 @@ Ruby’s modular approach to data sharing and privacy protection makes it the id
 
 **Zkp Cryptographic Infrastructure**
 
-Ruby utilizes Functional Encryption (FE), a leading-edge cryptographic solution that enables users to encrypt sensitive information on-chain, which can only be decrypted by holders of an approved private key.
+Ruby utilizes Functional Encryption (FE), a leading-edge cryptographic solution that enables users to encrypt sensitive information on-chain, which holders of an approved private key can only decrypt.
 
 **Bridging Institutions and Cryptos**
 
@@ -32,7 +32,7 @@ Built to be the privacy protocol compatible with the multichain ecosystem, Ruby 
 
 **Private KYC and Authentication**
 
-It focuses on performing KYC such as biometric authentication without leaking private identity information. The functional encryption will be employed to guarantee that only controlled KYC information is revealed to the entity users are trying to authenticate to. It will ensure user data and identity confidentiality while performing the KYC step.
+It focuses on performing KYC, such as biometric authentication, without leaking private identity information. The functional encryption will guarantee that only controlled KYC information is revealed to the entity users are trying to authenticate. It will ensure user data and identity confidentiality while performing the KYC step.
 
 **NFT-gated or DID-gated Access**
 
